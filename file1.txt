@@ -1,2 +1,3 @@
 a new file
 added line from vsc
+added new line from dos
